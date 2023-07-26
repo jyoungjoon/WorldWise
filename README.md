@@ -8,7 +8,9 @@
 
 ![Screenshot](./public/Screenshot.png)
 
-This practice application has been created to practice advanced React concepts such as: React Hooks, custom React Hooks, React Router, React Context API, React Lazy Component Load, Global State using Url, modern React file structure, React performance optimization (using Chrome extension: React Component Tree and React Profiler) and more.. It is built using Vite compiler. This application allows user to locate cities, using OpenStreetMap API, and track cities user has visited along with dates visited and notes. This application is a practice application and does not have a real database; instead, it uses local server to fetch data. All data is stored locally. Please see installation section below for more details. After installation, to start the application, please run the following command in your terminal:
+This practice application has been created to practice advanced React concepts such as: React Hooks, custom React Hooks, React Router, React Context API, React Lazy Component Load, Global State using Url, modern React file structure, React performance optimization (using Chrome extension: React Component Tree and React Profiler) and more.. It is built using Vite compiler. 
+
+This application allows user to locate cities, using OpenStreetMap API, and track cities user has visited along with dates visited and notes. This application is a practice application and does not have a real database; instead, it uses local server to fetch data. All data is stored locally. Please see installation section below for more details. After installation, to start the application, please run the following command in your terminal:
 
 ```bash
 npm run dev
