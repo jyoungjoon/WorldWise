@@ -1,0 +1,172 @@
+{
+  "cities": [
+    {
+      "cityName": "Bo",
+      "country": "Sierra Leone",
+      "emoji": "🇸🇱",
+      "date": "2023-07-25T19:08:47.016Z",
+      "notes": "",
+      "position": {
+        "lat": "8.233237111274565",
+        "lng": "-11.645507812500002"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Diamond",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-07-25T20:02:52.256Z",
+      "notes": "",
+      "position": {
+        "lat": "43.5326204268101",
+        "lng": "-118.69628906250001"
+      },
+      "id": 18
+    },
+    {
+      "cityName": "Challis",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-07-25T20:02:54.259Z",
+      "notes": "",
+      "position": {
+        "lat": "44.26093725039923",
+        "lng": "-113.97216796875001"
+      },
+      "id": 19
+    },
+    {
+      "cityName": "Bwari",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-07-25T20:04:20.020Z",
+      "notes": "",
+      "position": {
+        "lat": "9.297306856327596",
+        "lng": "7.492675781250001"
+      },
+      "id": 20
+    },
+    {
+      "cityName": "Kollo",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2023-07-25T20:04:23.339Z",
+      "notes": "",
+      "position": {
+        "lat": "13.475105944334963",
+        "lng": "2.4609375000000004"
+      },
+      "id": 21
+    },
+    {
+      "cityName": "Gourma Rharous",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2023-07-25T20:04:25.775Z",
+      "notes": "",
+      "position": {
+        "lat": "16.214674588248556",
+        "lng": "-2.2631835937500004"
+      },
+      "id": 22
+    },
+    {
+      "cityName": "Adrar",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2023-07-25T20:04:28.591Z",
+      "notes": "",
+      "position": {
+        "lat": "20.097206227083888",
+        "lng": "-9.052734375000002"
+      },
+      "id": 23
+    },
+    {
+      "cityName": "Ouad Naga",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2023-07-25T20:04:30.773Z",
+      "notes": "",
+      "position": {
+        "lat": "18.083200903334323",
+        "lng": "-15.292968750000002"
+      },
+      "id": 24
+    },
+    {
+      "cityName": "Ahenkro",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2023-07-25T20:06:07.869Z",
+      "notes": "",
+      "position": {
+        "lat": "7.27529233637217",
+        "lng": "0.3515625"
+      },
+      "id": 25
+    },
+    {
+      "cityName": "Mbata",
+      "country": "Central African Republic (the)",
+      "emoji": "🇨🇫",
+      "date": "2023-07-25T20:06:10.550Z",
+      "notes": "",
+      "position": {
+        "lat": "3.7765593098768635",
+        "lng": "18.369140625000004"
+      },
+      "id": 26
+    },
+    {
+      "cityName": "Goulfey",
+      "country": "Cameroon",
+      "emoji": "🇨🇲",
+      "date": "2023-07-25T20:06:12.652Z",
+      "notes": "",
+      "position": {
+        "lat": "12.382928338487396",
+        "lng": "14.589843750000002"
+      },
+      "id": 27
+    },
+    {
+      "cityName": "Koulamoutou",
+      "country": "Gabon",
+      "emoji": "🇬🇦",
+      "date": "2023-07-25T20:06:14.637Z",
+      "notes": "",
+      "position": {
+        "lat": "-0.7031073524364783",
+        "lng": "12.919921875000002"
+      },
+      "id": 28
+    },
+    {
+      "cityName": "Dalqu",
+      "country": "Sudan (the)",
+      "emoji": "🇸🇩",
+      "date": "2023-07-25T20:07:19.595Z",
+      "notes": "",
+      "position": {
+        "lat": "20.05593126519445",
+        "lng": "26.982421875000004"
+      },
+      "id": 29
+    },
+    {
+      "cityName": "In Salah",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-07-25T20:07:25.602Z",
+      "notes": "",
+      "position": {
+        "lat": "27.13736835979561",
+        "lng": "2.7246093750000004"
+      },
+      "id": 30
+    }
+  ]
+}
